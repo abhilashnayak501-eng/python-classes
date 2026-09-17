@@ -1,0 +1,11 @@
+# Jo folders nahi bhejne unke aage slash (/) lagayein:
+unwanted_folder/
+test/
+temp/
+
+# Python ke auto-generated junk files:
+__pycache__/
+*.pyc
+
+# VS Code ke personal settings:
+.vscode/
