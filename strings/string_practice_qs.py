@@ -121,8 +121,8 @@ print(new_file)
 file = input("Enter the year file ->")
 new_year_file = file[-8:-4]
 print(new_year_file)
-s = "Abhilash_Nayak"
-del s
-print(s)
+# s = "Abhilash_Nayak"
+# del s
+# print(s)
 
 
